@@ -1,0 +1,62 @@
+{
+  "generated_at": "2026-05-16T00:39:42.893318+00:00",
+  "count": 8,
+  "items": [
+    {
+      "title": "Enhancing Cybersecurity through Automation",
+      "link": "https://it.ubc.ca/news/enhancing-cybersecurity-through-automation",
+      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-05/AdobeStock_541096083.jpeg",
+      "pub_iso": "2026-05-13T17:32:41+00:00",
+      "summary": "In today’s digital landscape, protecting institutional systems from vulnerabilities is essential to maintaining a secure and reliable environment for teaching, learning, and research. To support this goal, the UBC Cybersecurity and Vulnerability Management Solution team has implemented a centralized Vulnerability Management Solution (VMS) that…"
+    },
+    {
+      "title": "Game On: UBC IT at Faculty & Staff Sports Day",
+      "link": "https://it.ubc.ca/news/game-ubc-it-faculty-staff-sports-day",
+      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-05/UBC%20IT%20at%20Sports%20Day%20Web%20Banner.jpg",
+      "pub_iso": "2026-05-08T20:54:34+00:00",
+      "summary": "On May 1 st 2026 , UBC IT participated as part of 108 teams in the 16 th annual UBC Faculty & Staff Sports Day . This annual event included activities scattered across the UBC Aquatic Centre, Student Recreation Centre (SRC), War Memorial Gym, MacInnes Family Field, and Rec North. UBC IT staff favorites included Pool Noodle Javelin, Mini…"
+    },
+    {
+      "title": "UBC IT at BCNET CONNECT 2026",
+      "link": "https://it.ubc.ca/news/ubc-information-technology-bcnet-connect-2026",
+      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-04/BCNET%201920x1080%20Jpeg.jpg",
+      "pub_iso": "2026-04-30T17:24:08+00:00",
+      "summary": "How can Information Technology (IT) professionals work better together to support the needs of research, teaching, and learning across British Columbia? Last week at BCNET CONNECT 2026 , the three-day higher education and research tech conference, many of our UBC IT colleagues gathered around this central question. Participating as both attendees…"
+    },
+    {
+      "title": "UBC IT Staff Hit the Ground Running at Vancouver Sun Run",
+      "link": "https://it.ubc.ca/news/ubc-it-staff-hit-ground-running-vancouver-sunrun",
+      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-04/Untitled-1.jpg",
+      "pub_iso": "2026-04-28T22:07:42+00:00",
+      "summary": "Congratulations to our staff members who represented UBC IT at the Vancouver Sun Run! The Vancouver Sun Run is Canada’s largest 10K road race. On April 19, 2026, the 42 nd annual Sun Run featured approximately 57,500 registered participants, representing the second-highest total in the event’s history. Our staff kept the momentum going and…"
+    },
+    {
+      "title": "Smarter Phishing Defense at UBC Cybersecurity",
+      "link": "https://it.ubc.ca/news/smarter-phishing-defense-ubc-cybersecurity",
+      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-04/AdobeStock_271460572.png",
+      "pub_iso": "2026-04-15T00:04:19+00:00",
+      "summary": "The UBC Cybersecurity team is leveraging artificial intelligence to stay ahead of phishing threats with two innovative tools: PhishSense and SNOWplow . Together, they automate the triage of phishing incidents, saving time and strengthening protection for the university community. PhishSense PhishSense is a machine learning solution developed at…"
+    },
+    {
+      "title": "Shaping the Future: A Conversation with UBC’s New Chief Information Security Officer",
+      "link": "https://it.ubc.ca/news/shaping-future-conversation-ubcs-new-chief-information-security-officer",
+      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-03/Larry%20Story%201920%20x%201080_0.jpg",
+      "pub_iso": "2026-03-19T16:29:58+00:00",
+      "summary": "We sat down with UBC’s recently appointed Chief Information Security Officer (CISO), Larry Carson, to discuss his career and vision for his first year as CISO. With more than 25 years of experience, Larry brings a long history of service to UBC and a deep understanding of our community. Larry has worked directly with many faculty, staff, and…"
+    },
+    {
+      "title": "Get Smarter With Your Password Management Practices",
+      "link": "https://it.ubc.ca/news/march-17-2026/get-smarter-your-password-management-practices",
+      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-03/Navigating%20the%20Future%20of%20Your%20Digital%20Identity.jpg",
+      "pub_iso": "2026-03-17T23:04:03+00:00",
+      "summary": "With cyber threats on the rise, weak and reused passwords continue to be one of the biggest vulnerabilities individuals face online. Strengthening how you manage passwords is one of the simplest and most effective steps you can take to protect your digital identity. Key Reminders: Avoid reusing passwords across accounts: Using the same password…"
+    },
+    {
+      "title": "M365 Roadmap: An Interview with a Senior Product Manager at UBC",
+      "link": "https://it.ubc.ca/news/march-4-2026/m365-roadmap-interview-senior-product-manager-ubc",
+      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-03/3-5-26%20M365%20Roadmap%20Web%20Article%20Banner.png",
+      "pub_iso": "2026-03-04T18:52:08+00:00",
+      "summary": "As UBC continues to evolve its digital workplace, the M365 project team is laying the groundwork for a secure and seamless Microsoft 365 environment across UBC. To provide greater clarity on what this means for the UBC community, we sat down with Mark Belsito, Senior Product Manager for M365, to learn more about his role and the broader vision for…"
+    }
+  ]
+}
