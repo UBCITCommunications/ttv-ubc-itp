@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-05-21T15:39:02.591343+00:00",
+  "generated_at": "2026-05-21T18:03:50.547176+00:00",
   "count": 8,
   "items": [
+    {
+      "title": "Building a Stronger Foundation for IT at UBC Through IT Asset Management",
+      "link": "https://it.ubc.ca/news/may-21-2026/building-stronger-foundation-it-ubc-through-it-asset-management",
+      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-05/salman.jpg",
+      "pub_iso": "2026-05-21T16:46:29+00:00",
+      "summary": "Understanding IT Asset Management at UBC As technology systems across UBC grow in scale and complexity, UBC IT is developing a more coordinated approach to understanding, managing, and planning its digital environment through the IT Asset Management System (ITAM). ITAM will provide a trusted and centralized view of the university’s IT assets,…"
+    },
     {
       "title": "Enhancing Cybersecurity through Automation",
       "link": "https://it.ubc.ca/news/enhancing-cybersecurity-through-automation",
@@ -50,13 +57,6 @@
       "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-03/Navigating%20the%20Future%20of%20Your%20Digital%20Identity.jpg",
       "pub_iso": "2026-03-17T23:04:03+00:00",
       "summary": "With cyber threats on the rise, weak and reused passwords continue to be one of the biggest vulnerabilities individuals face online. Strengthening how you manage passwords is one of the simplest and most effective steps you can take to protect your digital identity. Key Reminders: Avoid reusing passwords across accounts: Using the same password…"
-    },
-    {
-      "title": "M365 Roadmap: An Interview with a Senior Product Manager at UBC",
-      "link": "https://it.ubc.ca/news/march-4-2026/m365-roadmap-interview-senior-product-manager-ubc",
-      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-03/3-5-26%20M365%20Roadmap%20Web%20Article%20Banner.png",
-      "pub_iso": "2026-03-04T18:52:08+00:00",
-      "summary": "As UBC continues to evolve its digital workplace, the M365 project team is laying the groundwork for a secure and seamless Microsoft 365 environment across UBC. To provide greater clarity on what this means for the UBC community, we sat down with Mark Belsito, Senior Product Manager for M365, to learn more about his role and the broader vision for…"
     }
   ]
 }
