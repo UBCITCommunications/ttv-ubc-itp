@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-05-25T16:38:07.076589+00:00",
+  "generated_at": "2026-05-25T18:27:02.619584+00:00",
   "count": 8,
   "items": [
+    {
+      "title": "Cybersecurity Mentorship Program Launches for Year Two",
+      "link": "https://it.ubc.ca/news/cybersecurity-mentorship-program-launches-year-two",
+      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-05/mentorship%20photo_0.jpg",
+      "pub_iso": "2026-05-25T17:21:00+00:00",
+      "summary": "We’re excited to announce that UBC Cybersecurity will launch the second year of its internal Mentorship Program this Friday, May 29. The pilot program connects staff members across the team and is designed to strengthen collaboration, support career development at all levels, and encourage knowledge sharing between technical and business domains.…"
+    },
     {
       "title": "Building a Stronger Foundation for IT at UBC Through IT Asset Management",
       "link": "https://it.ubc.ca/news/may-21-2026/building-stronger-foundation-it-ubc-through-it-asset-management",
@@ -50,13 +57,6 @@
       "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-03/Larry%20Story%201920%20x%201080_0.jpg",
       "pub_iso": "2026-03-19T16:29:58+00:00",
       "summary": "We sat down with UBC’s recently appointed Chief Information Security Officer (CISO), Larry Carson, to discuss his career and vision for his first year as CISO. With more than 25 years of experience, Larry brings a long history of service to UBC and a deep understanding of our community. Larry has worked directly with many faculty, staff, and…"
-    },
-    {
-      "title": "Get Smarter With Your Password Management Practices",
-      "link": "https://it.ubc.ca/news/march-17-2026/get-smarter-your-password-management-practices",
-      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-03/Navigating%20the%20Future%20of%20Your%20Digital%20Identity.jpg",
-      "pub_iso": "2026-03-17T23:04:03+00:00",
-      "summary": "With cyber threats on the rise, weak and reused passwords continue to be one of the biggest vulnerabilities individuals face online. Strengthening how you manage passwords is one of the simplest and most effective steps you can take to protect your digital identity. Key Reminders: Avoid reusing passwords across accounts: Using the same password…"
     }
   ]
 }
