@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-05-27T18:39:04.144247+00:00",
+  "generated_at": "2026-05-27T21:03:26.826348+00:00",
   "count": 8,
   "items": [
+    {
+      "title": "CANHEIT Conference 2026: Together, Innovation Takes Flight",
+      "link": "https://it.ubc.ca/news/canheit-conference-2026-together-innovation-takes-flight",
+      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-05/CANHEIT%20Logo.jpg",
+      "pub_iso": "2026-05-25T23:57:24+00:00",
+      "summary": "Next week several UBC IT colleagues will be headed to Ontario for the three day the CANHEIT (Canadian Higher Education Information Technology) Conference. Overseen by the Canadian University Council of Chief Information Officers (CUCCIO) and co-hosted this year by Wilfried Laurier University and the University of Waterloo, CANHEIT brings together…"
+    },
     {
       "title": "Cybersecurity Mentorship Program Launches for Year Two",
       "link": "https://it.ubc.ca/news/cybersecurity-mentorship-program-launches-year-two",
@@ -50,13 +57,6 @@
       "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-04/AdobeStock_271460572.png",
       "pub_iso": "2026-04-15T00:04:19+00:00",
       "summary": "The UBC Cybersecurity team is leveraging artificial intelligence to stay ahead of phishing threats with two innovative tools: PhishSense and SNOWplow . Together, they automate the triage of phishing incidents, saving time and strengthening protection for the university community. PhishSense PhishSense is a machine learning solution developed at…"
-    },
-    {
-      "title": "Shaping the Future: A Conversation with UBC’s New Chief Information Security Officer",
-      "link": "https://it.ubc.ca/news/shaping-future-conversation-ubcs-new-chief-information-security-officer",
-      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-03/Larry%20Story%201920%20x%201080_0.jpg",
-      "pub_iso": "2026-03-19T16:29:58+00:00",
-      "summary": "We sat down with UBC’s recently appointed Chief Information Security Officer (CISO), Larry Carson, to discuss his career and vision for his first year as CISO. With more than 25 years of experience, Larry brings a long history of service to UBC and a deep understanding of our community. Larry has worked directly with many faculty, staff, and…"
     }
   ]
 }
