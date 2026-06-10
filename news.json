@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-06-10T14:27:52.828552+00:00",
+  "generated_at": "2026-06-10T17:42:47.998037+00:00",
   "count": 8,
   "items": [
+    {
+      "title": "Celebrating Women in Engineering: A Journey from Engineer to Engagement Services",
+      "link": "https://it.ubc.ca/news/june-10-2026/celebrating-women-engineering-journey-engineer-engagement-services",
+      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-06/Women%20in%20Engineering%20Day%206-11.jpg",
+      "pub_iso": "2026-06-10T16:51:41+00:00",
+      "summary": "International Women in Engineering Day (INWED) is coming up on June 23. The day promotes and celebrates the achievements of women engineers and gender diversity in STEM fields. Under the 2026 theme, Engineering Intelligence, the campaign aims to showcase the expertise, creativity, and leadership women bring to work every day. Join us as we…"
+    },
     {
       "title": "CANHEIT Conference 2026: Together, Innovation Takes Flight",
       "link": "https://it.ubc.ca/news/canheit-conference-2026-together-innovation-takes-flight",
@@ -50,13 +57,6 @@
       "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-04/Untitled-1.jpg",
       "pub_iso": "2026-04-28T22:07:42+00:00",
       "summary": "Congratulations to our staff members who represented UBC IT at the Vancouver Sun Run! The Vancouver Sun Run is Canada’s largest 10K road race. On April 19, 2026, the 42 nd annual Sun Run featured approximately 57,500 registered participants, representing the second-highest total in the event’s history. Our staff kept the momentum going and…"
-    },
-    {
-      "title": "Smarter Phishing Defense at UBC Cybersecurity",
-      "link": "https://it.ubc.ca/news/smarter-phishing-defense-ubc-cybersecurity",
-      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-04/AdobeStock_271460572.png",
-      "pub_iso": "2026-04-15T00:04:19+00:00",
-      "summary": "The UBC Cybersecurity team is leveraging artificial intelligence to stay ahead of phishing threats with two innovative tools: PhishSense and SNOWplow . Together, they automate the triage of phishing incidents, saving time and strengthening protection for the university community. PhishSense PhishSense is a machine learning solution developed at…"
     }
   ]
 }
