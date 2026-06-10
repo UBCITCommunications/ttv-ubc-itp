@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-06-10T20:36:35.610401+00:00",
+  "generated_at": "2026-06-10T22:53:24.518075+00:00",
   "count": 8,
   "items": [
+    {
+      "title": "UBC's Data Governance Program Highlighted at International QS Conference in Singapore",
+      "link": "https://it.ubc.ca/news/june-10-2026/ubcs-data-governance-program-highlighted-international-qs-conference-singapore",
+      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-06/Image%20%284%29.jpg",
+      "pub_iso": "2026-06-10T21:20:40+00:00",
+      "summary": "The QS Conference held in Singapore on June 3 rd and 4 th 2026 brought together higher education leaders to discuss key topics shaping the future of universities, including AI, data, and digital transformation. Throughout the conference, a common theme emerged: AI cannot be successfully implemented without strong data governance and high-quality…"
+    },
     {
       "title": "Celebrating Women in Engineering: A Journey from Engineer to Engagement Services",
       "link": "https://it.ubc.ca/news/june-10-2026/celebrating-women-engineering-journey-engineer-engagement-services",
@@ -50,13 +57,6 @@
       "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-04/BCNET%201920x1080%20Jpeg.jpg",
       "pub_iso": "2026-04-30T17:24:08+00:00",
       "summary": "How can Information Technology (IT) professionals work better together to support the needs of research, teaching, and learning across British Columbia? Last week at BCNET CONNECT 2026 , the three-day higher education and research tech conference, many of our UBC IT colleagues gathered around this central question. Participating as both attendees…"
-    },
-    {
-      "title": "UBC IT Staff Hit the Ground Running at Vancouver Sun Run",
-      "link": "https://it.ubc.ca/news/ubc-it-staff-hit-ground-running-vancouver-sunrun",
-      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-04/Untitled-1.jpg",
-      "pub_iso": "2026-04-28T22:07:42+00:00",
-      "summary": "Congratulations to our staff members who represented UBC IT at the Vancouver Sun Run! The Vancouver Sun Run is Canada’s largest 10K road race. On April 19, 2026, the 42 nd annual Sun Run featured approximately 57,500 registered participants, representing the second-highest total in the event’s history. Our staff kept the momentum going and…"
     }
   ]
 }
