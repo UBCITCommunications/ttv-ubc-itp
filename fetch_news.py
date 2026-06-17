@@ -81,8 +81,10 @@ def strip_html(html):
         '', html, flags=re.DOTALL
     )
 
-    # Remove iframes/scripts/style blocks
+ # Remove iframes/scripts/style blocks
     html = re.sub(r'<(iframe|script|style)[^>]*>.*?</\1>', ' ', html, flags=re.DOTALL)
+    # Collapse ordinal superscripts before stripping tags
+    html = re.sub(r'(\d)<sup>(st|nd|rd|th)</sup>', r'\1\2', html, flags=re.IGNORECASE)
     # Strip remaining tags
     text = re.sub(r'<[^>]+>', ' ', html)
 
