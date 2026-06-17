@@ -2,7 +2,7 @@ name: Fetch UBC IT News
 
 on:
   schedule:
-    - cron: '*/30 * * * *'   # every 30 min
+    - cron: '0 13 * * *'   # daily at 06:00 PT
   workflow_dispatch:
   push:
     branches: [main]
