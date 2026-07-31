@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-07-30T15:03:35.878415+00:00",
-  "count": 7,
+  "generated_at": "2026-07-31T15:13:02.816377+00:00",
+  "count": 8,
   "items": [
+    {
+      "title": "Time Zone Update Notice for IT Staff",
+      "link": "https://it.ubc.ca/news/july-30-2026/time-zone-update-notice-it-staff",
+      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-07/Blue%20Sky%201920%20x%201080.jpg",
+      "pub_iso": "2026-07-30T21:28:52+00:00",
+      "summary": "British Columbia officially moved from observing Pacific Standard Time (PST, UTC−8) and Pacific Daylight Time (PDT, UTC−7) on a seasonal basis, to a single permanent time zone called Pacific Time (PT, UTC−7). This means clocks no longer change in the fall or spring. To ensure continuity of service, all IT Staff at UBC should review any systems,…"
+    },
     {
       "title": "UBC's Data Governance Program Highlighted at International QS Conference in Singapore",
       "link": "https://it.ubc.ca/news/june-10-2026/ubcs-data-governance-program-highlighted-international-qs-conference-singapore",
