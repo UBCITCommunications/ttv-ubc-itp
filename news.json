@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-08-05T15:08:54.002019+00:00",
+  "generated_at": "2026-08-06T15:08:13.183260+00:00",
   "count": 8,
   "items": [
+    {
+      "title": "Start the New Academic Year Strong: Essential IT Resources at UBC",
+      "link": "https://it.ubc.ca/news/august-5-2026/start-new-academic-year-strong-essential-it-resources-ubc",
+      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-08/new_academic_year.jpg",
+      "pub_iso": "2026-08-05T19:46:40+00:00",
+      "summary": "With a new academic year upon us, UBC offers helpful IT resources you may need for your day-to-day work at UBC: Resources available to faculty, staff, students: UBC Survey Tool : Create surveys with this Canadian-hosted solution Canvas : Canvas provides a secure, online classroom for each of your courses at UBC. Workday : Workday is UBC’s system…"
+    },
     {
       "title": "Time Zone Update Notice for IT Staff",
       "link": "https://it.ubc.ca/news/july-30-2026/time-zone-update-notice-it-staff",
@@ -50,13 +57,6 @@
       "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-05/AdobeStock_541096083.jpeg",
       "pub_iso": "2026-05-13T17:32:41+00:00",
       "summary": "In today’s digital landscape, protecting institutional systems from vulnerabilities is essential to maintaining a secure and reliable environment for teaching, learning, and research. To support this goal, the UBC Cybersecurity and Vulnerability Management Solution team has implemented a centralized Vulnerability Management Solution (VMS) that…"
-    },
-    {
-      "title": "Game On: UBC IT at Faculty & Staff Sports Day",
-      "link": "https://it.ubc.ca/news/game-ubc-it-faculty-staff-sports-day",
-      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-05/UBC%20IT%20at%20Sports%20Day%20Web%20Banner.jpg",
-      "pub_iso": "2026-05-08T20:54:34+00:00",
-      "summary": "On May 1 st 2026 , UBC IT participated as part of 108 teams in the 16 th annual UBC Faculty & Staff Sports Day . This annual event included activities scattered across the UBC Aquatic Centre, Student Recreation Centre (SRC), War Memorial Gym, MacInnes Family Field, and Rec North. UBC IT staff favorites included Pool Noodle Javelin, Mini…"
     }
   ]
 }
