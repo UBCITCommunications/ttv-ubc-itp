@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-08-07T14:05:58.684706+00:00",
+  "generated_at": "2026-08-08T13:38:49.299707+00:00",
   "count": 8,
   "items": [
+    {
+      "title": "The People Behind Production: Inside UBC Studios",
+      "link": "https://it.ubc.ca/news/august-7-2026/people-behind-production-inside-ubc-studios",
+      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-08/UBC%20Studios%20Banner%201300%20x%20600_0.png",
+      "pub_iso": "2026-08-07T16:22:28+00:00",
+      "summary": "UBC Studios helps bring some of the university's most important ideas to life. Working with researchers, educators, and campus leaders, the team transforms complex ideas into experiences that inform, engage, and inspire. Whether producing a recruitment campaign, creating an immersive learning experience, preserving cultural artefacts through…"
+    },
     {
       "title": "Start the New Academic Year Strong: Essential IT Resources at UBC",
       "link": "https://it.ubc.ca/news/august-5-2026/start-new-academic-year-strong-essential-it-resources-ubc",
@@ -50,13 +57,6 @@
       "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-05/salman.jpg",
       "pub_iso": "2026-05-21T16:46:29+00:00",
       "summary": "Understanding IT Asset Management at UBC As technology systems across UBC grow in scale and complexity, UBC IT is developing a more coordinated approach to understanding, managing, and planning its digital environment through the IT Asset Management System (ITAM). ITAM will provide a trusted and centralized view of the university’s IT assets,…"
-    },
-    {
-      "title": "Enhancing Cybersecurity through Automation",
-      "link": "https://it.ubc.ca/news/enhancing-cybersecurity-through-automation",
-      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-05/AdobeStock_541096083.jpeg",
-      "pub_iso": "2026-05-13T17:32:41+00:00",
-      "summary": "In today’s digital landscape, protecting institutional systems from vulnerabilities is essential to maintaining a secure and reliable environment for teaching, learning, and research. To support this goal, the UBC Cybersecurity and Vulnerability Management Solution team has implemented a centralized Vulnerability Management Solution (VMS) that…"
     }
   ]
 }
