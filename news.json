@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-08-13T14:17:00.698993+00:00",
+  "generated_at": "2026-08-14T14:09:48.040150+00:00",
   "count": 8,
   "items": [
+    {
+      "title": "Start the Year Connected with UBC IT Pop-Up Support Booths",
+      "link": "https://it.ubc.ca/news/august-13-2026/start-year-connected-ubc-it-pop-support-booths",
+      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-08/helpdesk_banner_0.png",
+      "pub_iso": "2026-08-13T20:11:52+00:00",
+      "summary": "To ensure that UBC IT’s services work for you, UBC IT will be offering IT Pop-Up booths around campus from August 31 – September 18 to help you get connected to email, CWL, Duo MFA, and Wi-Fi. Drop by during our opening hours - no appointment needed. Come visit us! Martha Piper Plaza (by the UBC Fountain) Aug 31 - Sept 4, 9:30am - 4:30pm Totem…"
+    },
     {
       "title": "The People Behind Production: Inside UBC Studios",
       "link": "https://it.ubc.ca/news/august-7-2026/people-behind-production-inside-ubc-studios",
@@ -50,13 +57,6 @@
       "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-05/mentorship%20photo_0.jpg",
       "pub_iso": "2026-05-25T17:21:00+00:00",
       "summary": "We’re excited to announce that UBC Cybersecurity will launch the second year of its internal Mentorship Program this Friday, May 29. The pilot program connects staff members across the team and is designed to strengthen collaboration, support career development at all levels, and encourage knowledge sharing between technical and business domains.…"
-    },
-    {
-      "title": "Building a Stronger Foundation for IT at UBC Through IT Asset Management",
-      "link": "https://it.ubc.ca/news/building-stronger-foundation-it-ubc-through-it-asset-management",
-      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-05/salman.jpg",
-      "pub_iso": "2026-05-21T16:46:29+00:00",
-      "summary": "Understanding IT Asset Management at UBC As technology systems across UBC grow in scale and complexity, UBC IT is developing a more coordinated approach to understanding, managing, and planning its digital environment through the IT Asset Management System (ITAM). ITAM will provide a trusted and centralized view of the university’s IT assets,…"
     }
   ]
 }
