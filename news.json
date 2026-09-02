@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-09-01T17:04:13.059167+00:00",
-  "count": 6,
+  "generated_at": "2026-09-02T16:56:07.626379+00:00",
+  "count": 7,
   "items": [
+    {
+      "title": "Introducing UBC Internet of Things (IoT) Wi-Fi Network",
+      "link": "https://it.ubc.ca/news/september-1-2026/introducing-ubc-internet-things-iot-wi-fi-network",
+      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-09/1920x1080%20IoT.jpg",
+      "pub_iso": "2026-09-01T22:52:12+00:00",
+      "summary": "This fall, UBC has a new wi-fi network for personal devices - UBC Internet of Things (IoT). With this new wi-fi network, your laptop, phone, speakers, iPad, and other personal devices can see each other and work together just like they do at home. It’s secure, encrypted, and you can connect devices that are not supported on other networks such as…"
+    },
     {
       "title": "Start the Year Connected with UBC IT Pop-Up Support Booths",
       "link": "https://it.ubc.ca/news/august-13-2026/start-year-connected-ubc-it-pop-support-booths",
