@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-10-15T17:31:15.450065+00:00",
-  "count": 5,
+  "generated_at": "2026-10-16T17:05:59.910264+00:00",
+  "count": 6,
   "items": [
+    {
+      "title": "Introducing M365 Premium Services at UBC",
+      "link": "https://it.ubc.ca/news/october-15-2026/introducing-m365-premium-services-ubc",
+      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-10/resized%20m365.jpg",
+      "pub_iso": "2026-10-15T17:47:11+00:00",
+      "summary": "UBC IT is pleased to announce the launch of Microsoft 365 (M365) Premium Services on October 15, 2026 , giving eligible faculty and staff access to additional tools and capabilities to support productivity, collaboration, teaching, research, and administrative work. As part of UBC's ongoing Microsoft 365 modernization, these optional services will…"
+    },
     {
       "title": "Introducing UBC Internet of Things (IoT) Wi-Fi Network",
       "link": "https://it.ubc.ca/news/september-1-2026/introducing-ubc-internet-things-iot-wi-fi-network",
