@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-10-28T18:34:47.188793+00:00",
+  "generated_at": "2026-10-29T18:43:50.312001+00:00",
   "count": 8,
   "items": [
+    {
+      "title": "Duo Mobile is Getting a Security Upgrade",
+      "link": "https://it.ubc.ca/news/duo-mobile-getting-security-upgrade",
+      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-10/DUO%20Mobile.png",
+      "pub_iso": "2026-10-29T00:53:40+00:00",
+      "summary": "Duo Mobile Push notifications are the most commonly used multi-factor authentication (MFA) method at UBC. To strengthen account security, all Duo Mobile Push notifications, with the exception of UBC VPN authentication, will transition to Duo Verified Push notifications on November 10, 2026 . This will introduce number matching as the primary…"
+    },
     {
       "title": "UBC Cybersecurity Mentorship Program Wraps Up Another Successful Year",
       "link": "https://it.ubc.ca/news/october-26-2026/ubc-cybersecurity-mentorship-program-wraps-another-successful-year",
@@ -50,13 +57,6 @@
       "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-08/new_academic_year.jpg",
       "pub_iso": "2026-08-05T19:46:40+00:00",
       "summary": "With a new academic year upon us, UBC offers helpful IT resources you may need for your day-to-day work at UBC: Resources available to faculty, staff, students: UBC Survey Tool : Create surveys with this Canadian-hosted solution Canvas : Canvas provides a secure, online classroom for each of your courses at UBC. Workday : Workday is UBC’s system…"
-    },
-    {
-      "title": "Time Zone Update Notice for IT Staff",
-      "link": "https://it.ubc.ca/news/july-30-2026/time-zone-update-notice-it-staff",
-      "image": "https://it.ubc.ca/sites/default/files/feature-images/2026-07/Blue%20Sky%201920%20x%201080.jpg",
-      "pub_iso": "2026-07-30T21:28:52+00:00",
-      "summary": "British Columbia officially moved from observing Pacific Standard Time (PST, UTC−8) and Pacific Daylight Time (PDT, UTC−7) on a seasonal basis, to a single permanent time zone called Pacific Time (PT, UTC−7). This means clocks no longer change in the fall or spring. To ensure continuity of service, all IT Staff at UBC should review any systems,…"
     }
   ]
 }
